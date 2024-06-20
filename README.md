@@ -3,7 +3,7 @@ corso di grafica in movimento
 SUPSI
 2024
 
-### esercizio_1A
+### esercizio_1a_prova
 acceso_spento_2
 https://gbnchtt.github.io/GIM/esercizio_1A/acceso_spento_2.html
 
