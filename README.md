@@ -28,8 +28,8 @@ https://gbnchtt.github.io/GIM/esercizio_1a/spostamento_2.html
 spostamento_3
 https://gbnchtt.github.io/GIM/esercizio_1a/spostamento_3.html
 
-### esercizio_1B
-https://gbnchtt.github.io/GIM/esercizio_1B/dittico.html
+### esercizio_1b
+https://gbnchtt.github.io/GIM/esercizio_1b/dittico.html
 
 ### esercizio_1C
 https://gbnchtt.github.io/GIM/esercizio_1C/README.md
