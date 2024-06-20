@@ -29,7 +29,7 @@ spostamento_3
 https://gbnchtt.github.io/GIM/esercizio_1a/spostamento_3.html
 
 ### esercizio_1b
-https://gbnchtt.github.io/GIM/esercizio_1b/dittico.html
+https://gbnchtt.github.io/GIM/esercizio_1b/dittico_1.html
 
 ### esercizio_1C
 https://gbnchtt.github.io/GIM/esercizio_1C/README.md
