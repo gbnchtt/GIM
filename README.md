@@ -45,8 +45,8 @@ https://gbnchtt.github.io/GIM/esercizio_3A/orologio_illusione_ottica_lancette/or
 ### esercizio_3B
 https://gbnchtt.github.io/GIM/esercizio_3B/neve/neve.html
 https://gbnchtt.github.io/GIM/esercizio_3B/neve_2/neve_2.html
-https://gbnchtt.github.io/GIM/esercizio_3B/ping_pong/ping_pong.html
-https://gbnchtt.github.io/GIM/esercizio_3B/ping_pong_2/ping_pong_2.html
+https://gbnchtt.github.io/GIM/esercizio_3B/pong/pong.html
+https://gbnchtt.github.io/GIM/esercizio_3B/pong_2/pong_2.html
 https://gbnchtt.github.io/GIM/esercizio_3B/pioggia/pioggia.html
 
 
